@@ -18,6 +18,8 @@ function add2(n) {
 }
 
 var funkyFunction = function() {
+      console.log ("bitch")
+
   return function() {
     console.log ("FUNKY!")
   }
